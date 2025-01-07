@@ -1,2 +1,2 @@
-# Rogue-clone-Java
-Simple Rogue-Clone written in java
+# Roguelike-java
+Simple Roguelike written in java
